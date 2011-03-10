@@ -1,0 +1,9 @@
+Package: net.r-ch.jukkasjarvi.stage1
+Name: Jukkasjärvi (Stage 1)
+Version: 0.1-2
+Architecture: iphoneos-arm
+Description: yeah, try pronouncing *that*
+Maintainer: Yanik Magnan <kirbykirbykirby@gmail.com>
+Author: Yanik Magnan <kirbykirbykirby@gmail.com>
+Section: System
+Depends: adv-cmds, apt7, class-dump, curl, net.howett.cydelete, com.ericasadun.utilities, gawk, jp.ashikase.multiiconmover, com.chpwn.nofolderbadges, nvi, openssh, com.saurik.privacy, net.r-ch.singleuseclipboard, com.collab.switchermod, uikittools, wget, unrar, unzip

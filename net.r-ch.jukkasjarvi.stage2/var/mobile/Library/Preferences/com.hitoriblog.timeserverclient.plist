@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CustomServerAddress</key>
+	<string></string>
+	<key>Enabled</key>
+	<true/>
+	<key>GripNotification</key>
+	<false/>
+	<key>LastStatus</key>
+	<string> 9 Mar 17:44:02 ntpdate[54282]: adjust time server 209.167.68.100 offset 0.427221 sec
+</string>
+	<key>LastUpdated</key>
+	<date>2011-03-09T22:44:02Z</date>
+	<key>ServerAddress</key>
+	<string>north-america.pool.ntp.org</string>
+	<key>UpdateInterval</key>
+	<integer>60</integer>
+</dict>
+</plist>

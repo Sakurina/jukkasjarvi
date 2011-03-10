@@ -1,0 +1,2 @@
+deb http://hitoriblog.com/apt/ ./
+deb http://www.cycript.org/debs/ ./

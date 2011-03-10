@@ -1,0 +1,10 @@
+Package: net.r-ch.jukkasjarvi.stage2
+Name: Jukkasjärvi (Stage 2)
+Version: 0.1-1
+Architecture: iphoneos-arm
+Description: yeah, try pronouncing *that*
+Maintainer: Yanik Magnan <kirbykirbykirby@gmail.com>
+Author: Yanik Magnan <kirbykirbykirby@gmail.com>
+Section: System
+Pre-Depends: net.r-ch.jukkasjarvi.stage1
+Depends: cycript, com.hitoriblog.defaultflashoff, com.hitoriblog.statusbarcustomclock4, com.hitoriblog.timeserverclient
